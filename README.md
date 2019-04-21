@@ -34,5 +34,10 @@
 
 ### 配置语言
 
-+ [json-schema](https://json-schema.org/) - 用于 json 数据验证
++ [json-schema](https://json-schema.org/) - 用于 json 数据验证，现在处于第 07 个草案
 + [json5](https://json5.org/) - 基于 ECMAScript 5.1 语法所扩展的 json 结构，属于 json 的超集，可以使用 [json5](https://www.npmjs.com/package/json5) 进行解析
++ [yaml](http://www.ruanyifeng.com/blog/2016/07/yaml.html)，可以使用 [js-yaml](https://www.npmjs.com/package/js-yaml) 进行解析
+
+### 包管理器
+
++ [yarn](https://github.com/yarnpkg/yarn)，其中的 [Plug'n'Play](https://loveky.github.io/2019/02/11/yarn-pnp/)（pnp） 特性，尝试解决 npm 依赖安装缓慢的问题
