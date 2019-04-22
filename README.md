@@ -9,7 +9,7 @@
 + [腾讯前端](https://github.com/AlloyTeam/Mars) - 感觉凉了
 + [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog) - 感觉也凉了
 + [React 面试题 & 回答](https://github.com/semlinker/reactjs-interview-questions/blob/master/README.md) - 覆盖面还是相当广泛的，一些拓展阅读也很有意思，例如 [React 如何区分 Class 和 Function?](https://overreacted.io/zh-hans/how-does-react-tell-a-class-from-a-function/)、[为什么React元素有一个$$typeof属性？](https://overreacted.io/zh-hans/why-do-react-elements-have-typeof-property/)
-+ [抛开 Vue、React、JQuery 这类第三方js，我们该怎么写代码？](https://mp.weixin.qq.com/s/B5Nl7vee9yWdcd_oxn0bXQ) - 框架多了，就容易迷了眼。其实抛开框架， 我们能做的也不少
++ [抛开 Vue、React、JQuery 这类第三方js，我们该怎么写代码？](https://yalishizhude.github.io/2018/11/14/web-components/) - 框架多了，就容易迷了眼。其实抛开框架， 我们能做的也不少
 
 ## 服务端知识库
 
