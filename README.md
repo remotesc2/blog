@@ -2,14 +2,21 @@
 
 ## web 端知识库
 
+### blog
+
 + [sorrycc\`s blog](https://github.com/sorrycc/zaobao/issues) - sorrycc 的博客，已经有段日子不更新了
 + [MrErHu(请叫我王磊的同学)博客](https://github.com/MrErHu/blog) - 从一篇《庖丁解牛React-Redux》，知晓该博客
 + [livoras\`s blog](https://github.com/livoras/blog/issues) - 从一篇《界面之下：还原真实的MV\*模式》，知晓该博客
 + [前端精读周刊](https://github.com/dt-fe/weekly) - 每周一更新
++ [Pines-Cheng\`s blog](https://github.com/Pines-Cheng/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) - 许久前关注的一个博客，偶然间从书签中翻了出来，已经许久没了更新
 + [腾讯前端](https://github.com/AlloyTeam/Mars) - 感觉凉了
 + [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog) - 感觉也凉了
 + [React 面试题 & 回答](https://github.com/semlinker/reactjs-interview-questions/blob/master/README.md) - 覆盖面还是相当广泛的，一些拓展阅读也很有意思，例如 [React 如何区分 Class 和 Function?](https://overreacted.io/zh-hans/how-does-react-tell-a-class-from-a-function/)、[为什么React元素有一个$$typeof属性？](https://overreacted.io/zh-hans/why-do-react-elements-have-typeof-property/)
+
+### 文章
+
 + [抛开 Vue、React、JQuery 这类第三方js，我们该怎么写代码？](https://yalishizhude.github.io/2018/11/14/web-components/) - 框架多了，就容易迷了眼。其实抛开框架， 我们能做的也不少
++ [带你彻底弄懂Event Loop](https://segmentfault.com/a/1190000016278115) - 弄懂“macrotask”与“microtask”
 
 ## 服务端知识库
 
