@@ -43,6 +43,10 @@
 + [redux](https://github.com/reduxjs/redux)
 + [immer](https://github.com/immerjs/immer)
 
+### 在未归类
+
++ [esx](https://github.com/esxjs/esx) - Like JSX, but native and fast
+
 ### 配置语言
 
 + [json-schema](https://json-schema.org/) - 用于 json 数据验证，现在处于第 07 个草案
