@@ -28,6 +28,10 @@
  
 ## 第三方库
 
+### 前端微架构
+
+[qiankun](https://github.com/umijs/qiankun) - 来自于 umi 项目中的一个工程，研究研究，可能主要是针对“沙盒”部分
+
 ### 预处理工具
 
 + [webpack](https://github.com/webpack/webpack)
