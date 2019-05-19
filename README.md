@@ -60,3 +60,9 @@
 ### 包管理器
 
 + [yarn](https://github.com/yarnpkg/yarn)，其中的 [Plug'n'Play](https://loveky.github.io/2019/02/11/yarn-pnp/)（pnp） 特性，尝试解决 npm 依赖安装缓慢的问题
+
+## 工具类
+
+### mac
+
++ [开发效率提升：Mac生产力工具链推荐](https://github.com/Louiszhai/tool) - 工具很多是听说过，看来就差一台 mbp 了
