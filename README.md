@@ -1,8 +1,8 @@
 # 综述
 
-## web 端知识库
+## 一、web 端知识库
 
-### blog
+### 1.1 blog
 
 + [sorrycc\`s blog](https://github.com/sorrycc/zaobao/issues) - sorrycc 的博客，已经有段日子不更新了
 + [MrErHu(请叫我王磊的同学)博客](https://github.com/MrErHu/blog) - 从一篇《庖丁解牛React-Redux》，知晓该博客
@@ -16,7 +16,7 @@
 + [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog) - 感觉也凉了
 + [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) - “腾讯前端”不更了，没想到找到个“腾讯新闻前端”，啧啧，大公司的组织呐
 
-### 文章
+### 1.2 文章
 
 + [抛开 Vue、React、JQuery 这类第三方js，我们该怎么写代码？](https://yalishizhude.github.io/2018/11/14/web-components/) - 框架多了，就容易迷了眼。其实抛开框架， 我们能做的也不少
 + [带你彻底弄懂Event Loop](https://segmentfault.com/a/1190000016278115) - 弄懂“macrotask”与“microtask”
@@ -24,11 +24,11 @@
 + [基于 umi 的微前端架构](https://github.com/umijs/rfcs/blob/umi-plugin-single-spa/accepted/0000-umi-plugin-single-spa.md) - 看来随着前端打包风盛行，工程拆分势在必行
 + [从零开始实现一个React](https://github.com/hujiulong/blog/issues/4) - 造轮子~
 
-## 服务端知识库
+## 二、服务端知识库
 
  + [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
  
-## 第三方库
+## 三、web 端工具
 
 ### 前端微架构
 
@@ -49,7 +49,7 @@
 + [redux](https://github.com/reduxjs/redux)
 + [immer](https://github.com/immerjs/immer)
 
-### 在未归类
+### 未归类
 
 + [esx](https://github.com/esxjs/esx) - Like JSX, but native and fast
 
@@ -63,10 +63,13 @@
 
 + [yarn](https://github.com/yarnpkg/yarn)，其中的 [Plug'n'Play](https://loveky.github.io/2019/02/11/yarn-pnp/)（pnp） 特性，尝试解决 npm 依赖安装缓慢的问题
 
-## 工具类
+## 四、工具类
 
 ### mac
 
 + [开发效率提升：Mac生产力工具链推荐](https://github.com/Louiszhai/tool) - 工具很多是听说过，看来就差一台 mbp 了
+
+### 未归档
+
 + [国际化翻译搜索](https://i18ns.com/zh/index.html) - 虽然还是无法解决专业词汇问题，但是一般 app 词语翻译够用了
 + [node.js 项目打包工具](https://github.com/zeit/pkg) - 打包工具，可惜我们现在还没有啥 nodejs 项目试手
