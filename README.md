@@ -10,9 +10,11 @@
 + [前端精读周刊](https://github.com/dt-fe/weekly) - 每周一更新
 + [Pines-Cheng\`s blog](https://github.com/Pines-Cheng/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) - 许久前关注的一个博客，偶然间从书签中翻了出来，已经许久没了更新
 + [腾讯前端](https://github.com/AlloyTeam/Mars) - 感觉凉了
-+ [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog) - 感觉也凉了
++ [TNFE-web 端的黑魔法](https://github.com/Tnfe/awesome-blackmagic) - 看看到底有多“黑”，腾讯新闻前端团队出品
 + [React 面试题 & 回答](https://github.com/semlinker/reactjs-interview-questions/blob/master/README.md) - 覆盖面还是相当广泛的，一些拓展阅读也很有意思，例如 [React 如何区分 Class 和 Function?](https://overreacted.io/zh-hans/how-does-react-tell-a-class-from-a-function/)、[为什么React元素有一个$$typeof属性？](https://overreacted.io/zh-hans/why-do-react-elements-have-typeof-property/)
 + [每周前端面试](https://github.com/airuikun/Weekly-FE-Interview) - 好吧，我承认里头的内容我都答不上来，真的菜~
++ [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog) - 感觉也凉了
++ [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) - “腾讯前端”不更了，没想到找到个“腾讯新闻前端”，啧啧，大公司的组织呐
 
 ### 文章
 
@@ -66,3 +68,5 @@
 ### mac
 
 + [开发效率提升：Mac生产力工具链推荐](https://github.com/Louiszhai/tool) - 工具很多是听说过，看来就差一台 mbp 了
++ [国际化翻译搜索](https://i18ns.com/zh/index.html) - 虽然还是无法解决专业词汇问题，但是一般 app 词语翻译够用了
++ [node.js 项目打包工具](https://github.com/zeit/pkg) - 打包工具，可惜我们现在还没有啥 nodejs 项目试手
