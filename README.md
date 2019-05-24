@@ -4,7 +4,7 @@
 
 ### 1.1 blog
 
-+ [sorrycc\`s blog](https://github.com/sorrycc/zaobao/issues) - sorrycc 的博客，已经有段日子不更新了
++ [sorrycc\`s blog](https://github.com/sorrycc/zaobao/issues) - sorrycc 的博客
 + [MrErHu(请叫我王磊的同学)博客](https://github.com/MrErHu/blog) - 从一篇《庖丁解牛React-Redux》，知晓该博客
 + [livoras\`s blog](https://github.com/livoras/blog/issues) - 从一篇《界面之下：还原真实的MV\*模式》，知晓该博客
 + [前端精读周刊](https://github.com/dt-fe/weekly) - 每周一更新
@@ -15,6 +15,7 @@
 + [每周前端面试](https://github.com/airuikun/Weekly-FE-Interview) - 好吧，我承认里头的内容我都答不上来，真的菜~
 + [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog) - 感觉也凉了
 + [TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) - “腾讯前端”不更了，没想到找到个“腾讯新闻前端”，啧啧，大公司的组织呐
++ [JimmyLv\`s blog](https://github.com/JimmyLv/jimmylv.github.io)
 
 ### 1.2 文章
 
@@ -23,6 +24,7 @@
 + [微前端的那些事儿](https://github.com/phodal/microfrontends) - 后有微服务，前有微前端
 + [基于 umi 的微前端架构](https://github.com/umijs/rfcs/blob/umi-plugin-single-spa/accepted/0000-umi-plugin-single-spa.md) - 看来随着前端打包风盛行，工程拆分势在必行
 + [从零开始实现一个React](https://github.com/hujiulong/blog/issues/4) - 造轮子~
++ [代码注释规范](https://segmentfault.com/a/1190000019276396) - 用工具来完成重复劳动
 
 ## 二、服务端知识库
 
