@@ -25,6 +25,7 @@
 + [基于 umi 的微前端架构](https://github.com/umijs/rfcs/blob/umi-plugin-single-spa/accepted/0000-umi-plugin-single-spa.md) - 看来随着前端打包风盛行，工程拆分势在必行
 + [从零开始实现一个React](https://github.com/hujiulong/blog/issues/4) - 造轮子~
 + [代码注释规范](https://segmentfault.com/a/1190000019276396) - 用工具来完成重复劳动
++ [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/) - 一篇关于 userEffect 特性完整解读，好好读读，这 React Hooks 几时才能完全掌握？
 
 ## 二、服务端知识库
 
