@@ -27,6 +27,7 @@
 + [代码注释规范](https://segmentfault.com/a/1190000019276396) - 用工具来完成重复劳动
 + [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/) - 一篇关于 userEffect 特性完整解读，好好读读，这 React Hooks 几时才能完全掌握？
 + [namespaces-and-modules](https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html) - ts 的声明文件，感觉真混乱，看的一脸懵
++ [Class 的私有属性与私有方法](https://blog.fundebug.com/2019/04/23/javascript-class-private-field-and-private-method/) - 为啥子私有属性、方法一定要使用 # 开头，这下明白了
 
 ## 二、服务端知识库
 
