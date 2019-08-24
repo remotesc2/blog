@@ -28,6 +28,7 @@
 + [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/) - 一篇关于 userEffect 特性完整解读，好好读读，这 React Hooks 几时才能完全掌握？
 + [namespaces-and-modules](https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html) - ts 的声明文件，感觉真混乱，看的一脸懵
 + [Class 的私有属性与私有方法](https://blog.fundebug.com/2019/04/23/javascript-class-private-field-and-private-method/) - 为啥子私有属性、方法一定要使用 # 开头，这下明白了
++ [密码强度的正则表达式（JavaScript）总结](https://juejin.im/post/5aa23ee46fb9a028b86d9cf4#heading-11) - 从中了解到如何利用正则进行字符串匹配，不过文中的这一部分 `(?=.*d)` 感觉是有问题的，相当于密码一定要存在小写的“d”
 
 ## 二、服务端知识库
 
